@@ -13,7 +13,7 @@ fi
 
 git --version || eval "sudo apt update & sudo apt-get install -y git"
 
-git config --global user.email 
-git config --global user.name 
+git config --global user.email $EMAIL
+git config --global user.name $USERNAME
 
 git remote set-url origin https://${TOKEN}@github.com/${USERNAME}/${REPO}.git
