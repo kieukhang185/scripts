@@ -1,0 +1,82 @@
+please ley me know the style of this video https://www.youtube.com/watch?v=jfKfPfyJRdk
+
+ChatGPT said:
+
+Thought for 16 seconds
+Here’s a quick breakdown of what gives that video its instantly recognisable “lo-fi hip-hop radio” feel:
+
+Audio style – mellow, “lo-fi” hip-hop
+
+24 / 7 stream of down-tempo hip-hop instrumentals (roughly 70–90 BPM) built from jazzy chords, soft drums, muted bass lines and vinyl crackle.
+
+Tracks are deliberately mixed with a slight analogue “warmth” and imperfections (tape hiss, clipped transients) that evoke 1990s-era home-recording gear – the hallmark of lo-fi/chillhop.
+
+No rapping and almost no vocals; it’s meant to sit in the background while you study, code or relax. 
+youtube.com
+lofigirl.fandom.com
+
+Visual style – cosy, Ghibli-inspired study loop
+
+The looping animation shows the “Lofi Girl” (officially named Jade) writing in a notebook at her desk with a cat dozing nearby and a cityscape outside the window.
+
+Artist Juan Pablo Machado was asked to create a “Miyazaki-esque” scene after the channel’s original loop (a direct frame from Whisper of the Heart, 1995) triggered a copyright strike. That Ghibli influence explains the warm lighting, soft outlines, muted earth-tones and gentle background motion (subtle rain, passing clouds, day/night cycle). 
+en.wikipedia.org
+vice.com
+
+Overall aesthetic
+
+Combines the audio’s relaxed hip-hop beat with an endlessly repeating, hand-drawn slice-of-life anime vignette – a “digital fireplace” for focus and calm.
+
+The stream’s steady popularity has made this combination the template for thousands of similar lo-fi channels; when people say “lo-fi study beats,” they usually mean exactly this style. 
+lofigirl.fandom.com
+
+
+
+Sources
+You said:
+can you please write a promt for this kind of style music
+
+
+ChatGPT said:
+
+Thought for 7 seconds
+Here’s a ready-to-copy prompt you can paste into most text-to-music generators (e.g., Suno, Stable Audio, MusicGen) to get a track in that classic “Lofi Girl / 24-7 study beats” vibe. Feel free to tweak any bracketed values (like BPM) or add/remove descriptors to taste:
+
+Prompt
+
+Genre: mellow lo-fi hip-hop
+Tempo: ~78 BPM (slow swing)
+Instrumentation: brushed boom-bap drums, dusty upright bass, jazzy Rhodes chords, airy electric-piano lead, faint trumpet stabs, soft vinyl crackle, distant rain ambience
+Mood / Tags: cosy • nostalgic • rainy-night • focus • warm analog tape • bedroom-studio
+Mix & Texture: slightly muffled highs, gentle side-chain “pump,” light tape hiss, subtle wow-and-flutter; no vocals, no rap—just instrumental
+Structure: 4-bar intro → 16-bar loopable groove with occasional dropouts (e.g., muting drums for 2 bars) → soft fade-out; keep melodic elements sparse so it works as background music
+
+Why this works
+Tempo & swing (~70–90 BPM with a laid-back groove) evokes the head-nod feel of classic chillhop.
+
+Instrumentation combines jazz-leaning chords with hip-hop rhythm sections—the defining recipe of the genre.
+
+Analog “imperfections” (vinyl crackle, tape flutter, slight high-end roll-off) give the track that warm, bedroom-producer character listeners expect.
+
+Loop-friendly structure keeps distractions low and makes the track blend seamlessly if you put it on repeat.
+
+Try swapping in different ambient layers (fireplace crackle, café chatter), instruments (flute, guitar), or moods (sunny afternoon, winter night) for quick variations while retaining the core lo-fi feel. Enjoy creating!
+
+
+Promt
+
+Genre: mellow lo-fi hip-hop
+Tempo: ~78 BPM (slow swing)
+Instrumentation: brushed boom-bap drums, dusty upright bass, jazzy Rhodes chords, airy electric-piano lead, faint trumpet stabs, soft vinyl crackle, distant rain ambience
+Mood / Tags: cosy • nostalgic • rainy-night • focus • warm analog tape • bedroom-studio
+Mix & Texture: slightly muffled highs, gentle side-chain “pump,” light tape hiss, subtle wow-and-flutter; no vocals, no rap—just instrumental
+Structure: 4-bar intro → 16-bar loopable groove with occasional dropouts (e.g., muting drums for 2 bars) → soft fade-out; keep melodic elements sparse so it works as background music
+
+mellow lo-fi hip, ~78 BPM, brushed boom-bap drums, dusty upright bass, jazzy Rhodes chords, airy electric-piano lead, faint trumpet stabs, soft vinyl crackle, distant rain ambience
+Mood / Tags: cosy, nostalgic, rainy-night, focus, warm analog tape, bedroom-studio
+Mix & Texture: slightly muffled highs, gentle side-chain “pump,” light tape hiss, subtle wow-and-flutter; no vocals, no rap—just instrumental
+Structure: 4-bar intro → 16-bar loopable groove with occasional dropouts (e.g., muting drums for 2 bars) → soft fade-out; keep melodic elements sparse so it works as background music
+
+
+Lo-fi hip-hop | 78 BPM | dusty boom-bap drums, upright bass, jazzy Rhodes, soft trumpet, vinyl crackle, light rain FX | warm tape saturation, mild wow-flutter, slight high-cut | chill, cosy, nostalgic, study-friendly | 4-bar intro + 16-bar loop, no vocals
+
