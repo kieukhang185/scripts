@@ -1,0 +1,185 @@
+Detailed Weekly Task Breakdown (3-Member Team)
+
+Month 1: Initial Setup & Planning
+
+Week 1:
+
+Member 1: Project kick-off meeting (1 SP, High)
+
+Member 2: Define team roles & responsibilities (1 SP, High)
+
+Member 3: Initial requirements draft (2 SP, High)
+
+All Members: Review and finalize requirements and architecture (2 SP, High)
+
+Week 2:
+
+Member 1: Review system design (1 SP, High)
+
+Member 2: Setup backend repository (1 SP, Medium)
+
+Member 3: Setup frontend and auth repository (1 SP, Medium)
+
+Week 3:
+
+Member 1: Backend structure initialization (2 SP, High)
+
+Member 2: PostgreSQL schema definition (2 SP, High)
+
+Member 3: ORM models setup (1 SP, High)
+
+Week 4:
+
+Member 1: React frontend structure setup (2 SP, High)
+
+Member 2: Routing and UI template creation (2 SP, High)
+
+Member 3: OAuth2 and JWT authentication setup (2 SP, High)
+
+Month 2: Backend Development
+
+Week 5:
+
+Member 1: CRUD for tasks (2 SP, High)
+
+Member 2: CRUD for bugs (1.5 SP, High)
+
+Member 3: CRUD for epics and sub-tasks (1.5 SP, High)
+
+Week 6:
+
+Member 1: Task hierarchy relationships (2 SP, High)
+
+Member 2 & 3: Assist and review implementations (1.5 SP each, Medium)
+
+Week 7:
+
+Member 1: Create and read comments (2 SP, High)
+
+Member 2: Update comments (1.5 SP, Medium)
+
+Member 3: Delete comments (1.5 SP, Medium)
+
+Week 8:
+
+Member 1: JWT middleware integration (2 SP, High)
+
+Member 2 & 3: Security testing and review (1.5 SP each, Medium)
+
+Month 3: Frontend Development
+
+Week 9:
+
+Member 1: User registration UI (2 SP, High)
+
+Member 2: Login UI (2 SP, High)
+
+Member 3: Profile management UI (2 SP, High)
+
+Week 10:
+
+Member 1: Task list and detail UI (2 SP, High)
+
+Member 2: Create task UI (1.5 SP, High)
+
+Member 3: Edit and delete task UI (1.5 SP, High)
+
+Week 11:
+
+Member 1: Comments UI component (2 SP, Medium)
+
+Member 2 & 3: Task hierarchy UI components (2 SP each, Medium)
+
+Week 12:
+
+Member 1: Mobile responsive design (2 SP, High)
+
+Member 2: Tablet responsive design (1.5 SP, High)
+
+Member 3: Desktop responsive design (1.5 SP, High)
+
+Month 4: Integrations & Testing
+
+Week 13:
+
+Member 1: Backend API adjustments (2.5 SP, High)
+
+Member 2: Frontend API integration (2.5 SP, High)
+
+Member 3: API integration testing (2 SP, High)
+
+Week 14:
+
+Member 1: Redis caching setup (2 SP, Medium)
+
+Member 2: Async task handling setup (1.5 SP, Medium)
+
+Member 3: Integration testing Redis (1.5 SP, Medium)
+
+Week 15:
+
+All Members: Unit and integration tests (2-3 SP each, High)
+
+Week 16:
+
+All Members: End-to-end testing, debugging, stability improvements (2-3 SP each, High)
+
+Month 5: DevOps & Deployment
+
+Week 17:
+
+Member 1: Backend Dockerfile configuration (2 SP, High)
+
+Member 2: Frontend Dockerfile configuration (1.5 SP, High)
+
+Member 3: Auth service Dockerfile & Docker Compose (1.5 SP, High)
+
+Week 18:
+
+All Members: Setup CI/CD pipelines (2-3 SP each, High)
+
+Week 19:
+
+Member 1 & 2: Monitoring setup with Prometheus/Grafana (2.5 SP each, Medium)
+
+Member 3: Documentation & Testing (1 SP, Medium)
+
+Week 20:
+
+Member 1 & 2: Logging with ELK Stack setup (2.5 SP each, Medium)
+
+Member 3: Integration tests and documentation (1 SP, Medium)
+
+Month 6: Finalization & Documentation
+
+Week 21:
+
+All Members: Final tests and optimization (2 SP each, High)
+
+Week 22:
+
+All Members: Comprehensive documentation (2-3 SP each, High)
+
+Week 23:
+
+Member 1: Backup drill execution (2 SP, High)
+
+Member 2: Restore drill execution (2 SP, High)
+
+Member 3: Production deployment preparation (1 SP, High)
+
+Week 24:
+
+Member 1: Launch AWS/GCP/Azure (2 SP, High)
+
+Member 2: Conduct training sessions (1 SP, High)
+
+Member 3: Conduct handover sessions (1 SP, High)
+
+Continuous Tasks:
+
+Weekly code reviews (All Members, 1 SP each, High)
+
+Bi-weekly sprint planning/retrospectives (All Members, 1 SP each, Medium)
+
+Monthly stakeholder meetings (All Members, 1 SP each, High)
